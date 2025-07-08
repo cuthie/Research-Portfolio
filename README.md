@@ -1,5 +1,5 @@
-# Industrial Research Portfolio
-Welcome! I'm a postdoctoral researcher specializing in data-driven modelling, control, and signal processing. This repository highlights practical projects and research prototypes relevant to industry-focused research roles in autonomous systems, digital twins, and predictive modelling.
+# Research Portfolio
+Welcome! I'm a postdoctoral researcher specializing in data-driven modelling, control, and signal processing. This repository showcases practical projects and research prototypes that are relevant to industry-focused roles in autonomous systems, digital twins, and predictive modeling.
 
 ## Contents
 - 🔧 [Hybrid MPC for Nonlinear Systems](projects/project3_hybrid_mpc/)
