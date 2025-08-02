@@ -1,0 +1,17 @@
+apiVersion: chaos-mesh.org/v1alpha1
+kind: StressChaos
+metadata:
+  name: burn-cpu
+  namespace: bb-mpc
+spec:
+  mode: one
+  selector:
+    labelSelectors:
+      app: bb-mpc
+  stressors:
+    cpu:
+      workers: 4
+      load: 90
+  duration: '30s'
+  scheduler:
+    cron: '@every 2m'

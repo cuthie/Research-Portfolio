@@ -1,0 +1,19 @@
+apiVersion: chaos-mesh.org/v1alpha1
+kind: NetworkChaos
+metadata:
+  name: bb-lqr-chaos
+  namespace: emma-replay-attack
+spec:
+  action: delay
+  mode: one
+  selector:
+    labelSelectors:
+      app: bb-lqr
+  delay:
+    latency: "21ms"
+    correlation: "25"
+    jitter: "15ms"
+  direction: to
+  duration: "30s"
+  #scheduler:
+    #cron: "@every 1m"

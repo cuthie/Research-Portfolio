@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: default
+spec:
+  containers:
+    - image: emmakathy/replay-attack-detector
+      name: replay-attack-detector
+      imagePullPolicy: Always
+      resources: {}
+      ports:
+        - containerPort: 5000
