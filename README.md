@@ -11,9 +11,21 @@ My work bridges **academic research** and **industrial applications**, with expe
 - Regularized System Identification with Kernel Methods
 
 ## Contents
-- 🔧 [Data-driven Modelling + Control]
-- 🌐 [Cloud-native Secure Controller]
-- 📈 [Signal processing with Stochastic Control]
+- 🔧 [Data-driven Modelling + Control]: In this project, we focus on an alternating minimization-based hyperparameter tuning method for SURE estimation.
+  
+- 🌐 [Cloud-native Secure Controller]: This project focuses on the investigation of a sequential detection policy for combating the effect of the replay attack on a cloud-native controller. The impact of such an attack is mitigated by adding random signals to the optimal control signal before the actuation process, a technique known as watermarking policy. We study the effectiveness of this joint scheme of sequential detection with watermarking in a cloud-native controller with varying levels of delay introduced in the communication network between the cloud server and the physical plant.
+  
+- 📈 [Signal processing with Stochastic Control]:
+  
+  **Subtopics:**  
+  1. ⚡ *Dynamic Programming-based Energy Allocation*:  
+     Developed optimal energy allocation strategies using dynamic programming to maximize throughput and prolong network lifetime under stochastic energy arrivals.  
+
+  2. ⏱️ *Quickest Change Detection-based Delay Minimization*:  
+     Designed detection policies leveraging the quickest change detection to minimize delay in event reporting while adhering to energy constraints.  
+
+  3. 📊 *Asymptotic Analysis of Local Change Detection*:  
+     Conducted asymptotic performance analysis of local change detection algorithms for distributed sensor networks under limited energy budgets.  
 
 ## 🔗 Related Research Repositories
 
