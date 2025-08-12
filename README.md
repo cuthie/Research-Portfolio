@@ -15,6 +15,12 @@ My work bridges **academic research** and **industrial applications**, with expe
 - 🌐 [Cloud-native Secure Controller]
 - 📈 [Signal processing with Stochastic Control]
 
+## 🔗 Related Research Repositories
+
+- **Special Research Project:** [Interpretation Error in Dynamical Systems](https://github.com/cuthie/Partial-Knowledge-Observer)  
+  Focuses on defining and describing a specific type of modeling error, termed the interpretation error, that may arise from the wrongful
+interpretation of the physical interactions within a dynamical system.
+
 Each project includes code, results, and documentation to support reproducibility and industrial relevance.
 
 ---
