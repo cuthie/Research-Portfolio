@@ -1,5 +1,13 @@
-# Research Portfolio
-Welcome! I'm a postdoctoral researcher specializing in data-driven modelling, control, and signal processing. This repository showcases practical projects and research prototypes that are relevant to industry-focused roles in autonomous systems, digital twins, and predictive modeling.
+# 🧪 Research Portfolio – [Emma Green]
+
+Welcome to my research portfolio!  
+I am a **Postdoctoral Researcher** specializing in **data-driven modelling, control systems, and AI applications**.  
+My work bridges **academic research** and **industrial applications**, with experience in:
+- Model Predictive Control (MPC)
+- Data-driven and cloud-native control architectures
+- AI explainability (LIME, SHAP)
+- Signal processing in wireless sensor networks
+- Applied machine learning for engineering systems
 
 ## Contents
 - 🔧 [Data-driven Modelling + Control]
