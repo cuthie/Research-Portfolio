@@ -1,7 +1,7 @@
 # 🧪 Research Portfolio – [Emma Green]
 
 Welcome to my research portfolio!  
-I am a **Postdoctoral Researcher** specializing in **data-driven modelling, and control systems.  
+I am a **Postdoctoral Researcher** specializing in data-driven modelling and control systems.  
 My work bridges **academic research** and **industrial applications**, with experience in:
 
 - Data-driven Modelling and Control
