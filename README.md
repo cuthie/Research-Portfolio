@@ -50,8 +50,8 @@ Each project includes code, results, and documentation to support reproducibilit
 │
 ├── data-driven-modeling-control/
 │   ├── calibrationUtilities.py
-│   ├── gradientHypUtilities_v1.py
-│   ├── hyperparam_tuning_v1.ipynb
+│   ├── gradientHypUtilities_v4.py
+│   ├── hyperparam_tuning_v4.ipynb
 │   ├── utilities.py
 │
 │
